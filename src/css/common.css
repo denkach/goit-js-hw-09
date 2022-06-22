@@ -22,12 +22,13 @@ img {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   padding: 8px 0;
   margin-top: 25px;
-  background-color:cornflowerblue;
   justify-content: space-around;
-  border: 1px solid transparent;
-  border-radius: 20px;
 }
 
 .field:not(:last-child) {
   margin-right: 15px;
+}
+
+.value {
+  font-size: 30px;
 }
